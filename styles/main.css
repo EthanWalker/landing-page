@@ -101,3 +101,13 @@ a img:hover {
   display: inline-block;
   margin-left: 70px;
 }
+.services p {
+  font-family: sans-serif;
+}
+
+#tagline{
+  color: white;
+  text-align: center;
+  line-height: 100px;
+}
+
